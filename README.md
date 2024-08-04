@@ -2,6 +2,9 @@
 The Final Year Project Management System is a comprehensive web application designed to streamline and manage the final year projects for students, teachers, and administrators. The system is developed using PHP, HTML, CSS, and Bootstrap 5, providing a responsive and user-friendly interface. The application includes three main portals: Admin, Teacher, and Student, each with distinct functionalities and access levels.
 
 1. Admin Portal
+   ## Screenshots
+
+![Admin Portal](Project%20Images/AdminPortal.png)
    
 Features:
 
@@ -29,7 +32,7 @@ System configuration options, including notifications, deadlines, and grading cr
 6.2 Frontend: HTML, CSS, Bootstrap 5 for responsive design.
 
 2. Teacher Portal
-   
+   ![Teacher Portal](Project%20Images/TeacherPortal.png)
 Features:
 
 1. Dashboard:
@@ -56,7 +59,7 @@ Share resources like documents, links, and references with students.
 6.2 Frontend: HTML, CSS, Bootstrap 5.
 
 3. Student Portal
-   
+   ![Student Portal](Project%20Images/StudentPortal.png)
 Features:
 
 1. Dashboard:
